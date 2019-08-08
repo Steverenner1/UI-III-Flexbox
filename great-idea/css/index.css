@@ -185,34 +185,4 @@ footer p {
 
 /*Services CSS Below*/
 
-.services2{
-	display:flex;
-	align-self: flex-end;
-	width:90%;
-	align-content:stretch;
-	
-}
-
-.services-header-img{
-	display:flex;
-}
-
-.services2{
-	display:flex;
-	justify-content:flex-end;
-}
-
-.digital, .ui{
-	display:flex;
-	width: 40%;
-	flex-direction:column;
-	align-content:flex-start;
-}
-
-.marketing, .webdev{
-	display:flex;
-	flex-wrap:wrap;
-	align-items:center;
-	justify-content:flex-start;
-}
 
